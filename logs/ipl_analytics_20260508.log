@@ -1,0 +1,41 @@
+2026-05-08 03:22:20,398 | INFO | src.cleaning.pipeline | === Starting Data Cleaning Pipeline ===
+2026-05-08 03:22:20,399 | INFO | src.cleaning.pipeline | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-05-08 03:22:20,400 | INFO | src.cleaning.pipeline | Loaded 568 rows, 8 columns
+2026-05-08 03:22:20,401 | INFO | src.cleaning.pipeline | Columns renamed
+2026-05-08 03:22:20,402 | INFO | src.cleaning.pipeline | Base price parsed
+2026-05-08 03:22:20,402 | INFO | src.cleaning.pipeline | Teams normalised
+2026-05-08 03:22:20,403 | INFO | src.cleaning.pipeline | Cost nulls handled
+2026-05-08 03:22:20,407 | INFO | src.cleaning.pipeline | Feature engineering complete
+2026-05-08 03:22:20,414 | INFO | src.cleaning.pipeline | Cleaned dataset saved to data/cleaned_ipl_auction_2023.csv
+2026-05-08 03:22:20,414 | INFO | src.cleaning.pipeline | === Pipeline Complete: 568 rows, 15 columns ===
+2026-05-08 03:22:20,422 | INFO | src.sql.database | Loaded 568 rows into SQLite table 'ipl_auction' at data/ipl_auction.db
+2026-05-08 03:22:20,422 | INFO | src.sql.database | Database setup complete
+2026-05-08 03:22:20,423 | INFO | src.eda.analysis | Generating all EDA charts …
+2026-05-08 03:22:20,525 | INFO | src.eda.analysis | Saved chart: assets/sold_vs_unsold.png
+2026-05-08 03:22:20,622 | INFO | src.eda.analysis | Saved chart: assets/team_spending.png
+2026-05-08 03:22:20,681 | INFO | src.eda.analysis | Saved chart: assets/role_spending.png
+2026-05-08 03:22:20,831 | INFO | src.eda.analysis | Saved chart: assets/top_expensive_players.png
+2026-05-08 03:22:20,910 | INFO | src.eda.analysis | Saved chart: assets/price_distribution.png
+2026-05-08 03:22:21,042 | INFO | src.eda.analysis | Saved chart: assets/origin_comparison.png
+2026-05-08 03:22:21,106 | INFO | src.eda.analysis | Saved chart: assets/price_buckets.png
+2026-05-08 03:22:21,250 | INFO | src.eda.analysis | Saved chart: assets/team_role_heatmap.png
+2026-05-08 03:22:21,372 | INFO | src.eda.analysis | Saved chart: assets/bargain_buys.png
+2026-05-08 03:22:21,435 | INFO | src.eda.analysis | Saved chart: assets/boxplot_role.png
+2026-05-08 03:22:21,552 | INFO | src.eda.analysis | Saved chart: assets/team_composition.png
+2026-05-08 03:22:21,660 | INFO | src.eda.analysis | Saved chart: assets/base_vs_final.png
+2026-05-08 03:22:21,660 | INFO | src.eda.analysis | Generated 12 charts
+2026-05-08 03:22:21,660 | INFO | src.ml.models | Training price regression model …
+2026-05-08 03:22:22,277 | INFO | src.ml.models | Price Model — MAE: 2.204, R²: 0.318, CV-R²: -0.432
+2026-05-08 03:22:22,410 | INFO | src.ml.models | Training sold/unsold classifier …
+2026-05-08 03:22:22,729 | INFO | src.ml.models | Classifier — Accuracy: 0.802, CV-Accuracy: 0.783
+2026-05-08 03:22:22,732 | INFO | src.ml.models | 
+              precision    recall  f1-score   support
+
+      Unsold       0.81      0.98      0.89        65
+        Sold       0.50      0.06      0.11        16
+
+    accuracy                           0.80        81
+   macro avg       0.66      0.52      0.50        81
+weighted avg       0.75      0.80      0.74        81
+
+2026-05-08 03:25:00,725 | INFO | src.sql.database | Report 'team_total_spend': 10 rows returned

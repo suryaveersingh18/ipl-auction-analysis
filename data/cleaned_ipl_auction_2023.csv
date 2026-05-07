@@ -1,0 +1,569 @@
+player_name,player_role,cost_cr,cost_usd_000,base_price_inr,is_retained,current_team,prev_team_2022,is_sold,price_bucket,is_overseas_inferred,player_origin,base_price_cr,price_multiplier,team_changed
+Shivam Mavi,Bowler,6.0,720.0,4000000,False,Gujarat Titans,Kolkata Knight Riders,True,5 – 10 Cr,False,Indian,0.4,15.0,True
+Joshua Little,Bowler,4.4,528.0,5000000,False,Gujarat Titans,,True,2 – 5 Cr,True,Overseas,0.5,8.8,False
+Kane Williamson,Batsman,2.0,240.0,20000000,False,Gujarat Titans,Sunrisers Hyderabad,True,2 – 5 Cr,True,Overseas,2.0,1.0,True
+K.S. Bharat,Wicket-Keeper,1.2,144.0,2000000,False,Gujarat Titans,Delhi Capitals,True,1 – 2 Cr,False,Indian,0.2,6.0,True
+Mohit Sharma,Bowler,0.5,60.0,5000000,False,Gujarat Titans,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Odean Smith,All-Rounder,0.5,60.0,5000000,False,Gujarat Titans,Punjab Kings,True,0.5 – 1 Cr,True,Overseas,0.5,1.0,True
+Urvil Patel,Wicket-Keeper,0.2,24.0,2000000,False,Gujarat Titans,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Rahul Tewatia,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Pradeep Sangwan,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Rashid Khan,Bowler,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+R. Sai Kishore,Bowler,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Yash Dayal,Bowler,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Noor Ahmad,Bowler,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Wriddhiman Saha,Wicket-Keeper,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Vijay Shankar,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Shubman Gill,Batsman,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Hardik Pandya,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+B. Sai Sudharsan,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Alzarri Joseph,Bowler,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,True,Overseas,0.0,,False
+Abhinav Sadarangani,Batsman,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Darshan Nalkande,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+David Miller,Batsman,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,True,Overseas,0.0,,False
+Matthew Wade,Wicket-Keeper,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Jayant Yadav,All-Rounder,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,False,Indian,0.0,,False
+Mohammad Shami,Bowler,0.0,0.0,0,True,Gujarat Titans,Gujarat Titans,True,Unsold / Retained,True,Overseas,0.0,,False
+Ben Stokes,All-Rounder,16.25,1950.0,20000000,False,Chennai Super Kings,,True,10+ Cr,True,Overseas,2.0,8.12,False
+Kyle Jamieson,Bowler,1.0,120.0,10000000,False,Chennai Super Kings,,True,1 – 2 Cr,False,Indian,1.0,1.0,False
+Nishant Sindhu,All-Rounder,0.6,72.0,2000000,False,Chennai Super Kings,,True,0.5 – 1 Cr,False,Indian,0.2,3.0,False
+Ajinkya Rahane,Batsman,0.5,60.0,5000000,False,Chennai Super Kings,Kolkata Knight Riders,True,0.5 – 1 Cr,False,Indian,0.5,1.0,True
+Bhagath Varma,All-Rounder,0.2,24.0,2000000,False,Chennai Super Kings,Chennai Super Kings,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Ajay Mandal,All-Rounder,0.2,24.0,2000000,False,Chennai Super Kings,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Shaik Rasheed,Batsman,0.2,24.0,2000000,False,Chennai Super Kings,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Ravindra Jadeja,All-Rounder,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Rajvardhan Hangargekar,All-Rounder,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Prashant Solanki,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Ruturaj Gaikwad,Batsman,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Tushar Deshpande,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Mukesh Choudhary,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Subhranshu Senapati,Batsman,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Simarjeet Singh,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Shivam Dube,All-Rounder,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Matheesha Pathirana,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Devon Conway,Batsman,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Deepak Chahar,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Ambati Rayudu,Batsman,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Dwaine Pretorius,All-Rounder,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Maheesh Theekshana,Bowler,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Moeen Ali,All-Rounder,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Mitchell Santner,All-Rounder,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+MS Dhoni,Wicket-Keeper,0.0,0.0,0,True,Chennai Super Kings,Chennai Super Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Mukesh Kumar,Bowler,5.5,660.0,2000000,False,Delhi Capitals,,True,5 – 10 Cr,False,Indian,0.2,27.5,False
+Rilee Rossouw,Batsman,4.6,552.0,20000000,False,Delhi Capitals,,True,2 – 5 Cr,False,Indian,2.0,2.3,False
+Manish Pandey,Batsman,2.4,288.0,10000000,False,Delhi Capitals,Lucknow Super Giants,True,2 – 5 Cr,False,Indian,1.0,2.4,True
+Phil Salt,Wicket-Keeper,2.0,240.0,20000000,False,Delhi Capitals,,True,2 – 5 Cr,False,Indian,2.0,1.0,False
+Ishant Sharma,Bowler,0.5,60.0,5000000,False,Delhi Capitals,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Ripal Patel,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Pravin Dubey,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Rishabh Pant,Wicket-Keeper,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Prithvi Shaw,Batsman,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Syed Khaleel Ahmed,Bowler,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Yash Dhull,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Vicky Ostwal,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Mustafizur Rahman,Bowler,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Sarfaraz Khan,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,True,Overseas,0.0,,False
+Rovman Powell,Batsman,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,True,Overseas,0.0,,False
+Lalit Yadav,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Axar Patel,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Anrich Nortje,Bowler,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,True,Overseas,0.0,,False
+Aman Khan (T),All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Chetan Sakariya,Bowler,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+David Warner,Batsman,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,True,Overseas,0.0,,False
+Lungisani Ngidi,Bowler,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,True,Overseas,0.0,,False
+Kuldeep Yadav,Bowler,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Kamlesh Nagarkoti,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Mitchell Marsh,All-Rounder,0.0,0.0,0,True,Delhi Capitals,Delhi Capitals,True,Unsold / Retained,False,Indian,0.0,,False
+Shakib Al Hasan,All-Rounder,1.5,180.0,1500000,False,Kolkata Knight Riders,,True,1 – 2 Cr,False,Indian,0.15,10.0,False
+David Wiese,All-Rounder,1.0,120.0,10000000,False,Kolkata Knight Riders,,True,1 – 2 Cr,False,Indian,1.0,1.0,False
+N. Jagadeesan,Wicket-Keeper,0.9,108.0,2000000,False,Kolkata Knight Riders,Chennai Super Kings,True,0.5 – 1 Cr,False,Indian,0.2,4.5,True
+Vaibhav Arora,Bowler,0.6,72.0,2000000,False,Kolkata Knight Riders,Punjab Kings,True,0.5 – 1 Cr,False,Indian,0.2,3.0,True
+Litton Das,Wicket-Keeper,0.5,60.0,5000000,False,Kolkata Knight Riders,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Mandeep Singh,Batsman,0.5,60.0,5000000,False,Kolkata Knight Riders,Delhi Capitals,True,0.5 – 1 Cr,False,Indian,0.5,1.0,True
+Kulwant Khejroliya,Bowler,0.2,24.0,2000000,False,Kolkata Knight Riders,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Suyash Sharma,Bowler,0.2,24.0,2000000,False,Kolkata Knight Riders,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Sunil Narine,Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,True,Overseas,0.0,,False
+Shreyas Iyer,Batsman,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Tim Southee,Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Umesh Yadav,Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Varun Chakaravarthy,Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Shardul Thakur (T),Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Venkatesh Iyer,All-Rounder,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Harshit Rana,Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Anukul Roy,All-Rounder,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,True,Overseas,0.0,,False
+Andre Russell,All-Rounder,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,True,Overseas,0.0,,False
+Lockie Ferguson (T),Bowler,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Nitish Rana,All-Rounder,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Rahmanullah Gurbaz (T),Wicket-Keeper,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Rinku Singh,Batsman,0.0,0.0,0,True,Kolkata Knight Riders,Kolkata Knight Riders,True,Unsold / Retained,False,Indian,0.0,,False
+Sam Curran,All-Rounder,18.5,2220.0,20000000,False,Punjab Kings,,True,10+ Cr,True,Overseas,2.0,9.25,False
+Sikandar Raza,All-Rounder,0.5,60.0,5000000,False,Punjab Kings,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Harpreet Bhatia,Batsman,0.4,48.0,2000000,False,Punjab Kings,,True,< 0.5 Cr,False,Indian,0.2,2.0,False
+Mohit Rathee,All-Rounder,0.2,24.0,2000000,False,Punjab Kings,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Vidwath Kaverappa,Bowler,0.2,24.0,2000000,False,Punjab Kings,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Shivam Singh,Wicket-Keeper,0.2,24.0,5000000,False,Punjab Kings,,True,< 0.5 Cr,False,Indian,0.5,0.4,False
+Liam Livingstone,All-Rounder,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Baltej Singh Dhanda,Bowler,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Atharva Taide,All-Rounder,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Bhanuka Rajapakse,Batsman,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Jitesh Sharma,Wicket-Keeper,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Nathan Ellis,Bowler,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Jonny Bairstow,Wicket-Keeper,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,True,Overseas,0.0,,False
+Kagiso Rabada,Bowler,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,True,Overseas,0.0,,False
+Harpreet Brar,All-Rounder,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Shahrukh Khan,All-Rounder,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Shikhar Dhawan,Batsman,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Rahul Chahar,Bowler,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Arshdeep Singh,Bowler,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Prabhsimran Singh,Wicket-Keeper,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Raj Angad Bawa,All-Rounder,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Rishi Dhawan,All-Rounder,0.0,0.0,0,True,Punjab Kings,Punjab Kings,True,Unsold / Retained,False,Indian,0.0,,False
+Nicholas Pooran,Wicket-Keeper,16.0,1920.0,20000000,False,Lucknow Super Giants,Sunrisers Hyderabad,True,10+ Cr,True,Overseas,2.0,8.0,True
+Daniel Sams,All-Rounder,0.75,90.0,7500000,False,Lucknow Super Giants,Mumbai Indians,True,0.5 – 1 Cr,False,Indian,0.75,1.0,True
+Jaydev Unadkat,Bowler,0.5,60.0,5000000,False,Lucknow Super Giants,Mumbai Indians,True,0.5 – 1 Cr,False,Indian,0.5,1.0,True
+Naveen Ul Haq,Bowler,0.5,60.0,5000000,False,Lucknow Super Giants,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Amit Mishra,Bowler,0.5,60.0,5000000,False,Lucknow Super Giants,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Romario Shepherd,All-Rounder,0.5,60.0,5000000,False,Lucknow Super Giants,Sunrisers Hyderabad,True,0.5 – 1 Cr,False,Indian,0.5,1.0,True
+Yash Thakur,Bowler,0.45,54.0,2000000,False,Lucknow Super Giants,,True,< 0.5 Cr,False,Indian,0.2,2.25,False
+Swapnil Singh,All-Rounder,0.2,24.0,2000000,False,Lucknow Super Giants,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Yudhvir Charak,All-Rounder,0.2,24.0,2000000,False,Lucknow Super Giants,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Prerak Mankad,All-Rounder,0.2,24.0,2000000,False,Lucknow Super Giants,Punjab Kings,True,< 0.5 Cr,False,Indian,0.2,1.0,True
+Mark Wood,Bowler,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Marcus Stoinis,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,True,Overseas,0.0,,False
+Mayank Yadav,Bowler,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Mohsin Khan,Bowler,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Quinton De Kock,Wicket-Keeper,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,True,Overseas,0.0,,False
+Manan Vohra,Batsman,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Ravi Bishnoi,Bowler,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Deepak Hooda,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Ayush Badoni,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Avesh Khan,Bowler,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+K. Gowtham,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Karan Sharma,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Krunal Pandya,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+KL Rahul,Batsman,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Kyle Mayers,All-Rounder,0.0,0.0,0,True,Lucknow Super Giants,Lucknow Super Giants,True,Unsold / Retained,False,Indian,0.0,,False
+Cameron Green,All-Rounder,17.5,2100.0,20000000,False,Mumbai Indians,,True,10+ Cr,True,Overseas,2.0,8.75,False
+Jhye Richardson,Bowler,1.5,180.0,1500000,False,Mumbai Indians,,True,1 – 2 Cr,False,Indian,0.15,10.0,False
+Piyush Chawla,Bowler,0.5,60.0,5000000,False,Mumbai Indians,,True,0.5 – 1 Cr,False,Indian,0.5,1.0,False
+Raghav Goyal,Bowler,0.2,24.0,2000000,False,Mumbai Indians,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Shams Mulani,All-Rounder,0.2,24.0,2000000,False,Mumbai Indians,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Nehal Wadhera,All-Rounder,0.2,24.0,2000000,False,Mumbai Indians,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Vishnu Vinod,Wicket-Keeper,0.2,24.0,2000000,False,Mumbai Indians,Sunrisers Hyderabad,True,< 0.5 Cr,False,Indian,0.2,1.0,True
+Duan Jansen,All-Rounder,0.2,24.0,2000000,False,Mumbai Indians,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Ramandeep Singh,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+N. Tilak Varma,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Mohd. Arshad Khan,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Rohit Sharma,Batsman,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Suryakumar Yadav,Batsman,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Kumar Kartikeya Singh,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Tristan Stubbs*,Wicket-Keeper,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Tim David,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Hrithik Shokeen,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Arjun Tendulkar,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Akash Madhwal,Bowler,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Dewald Brevis,Batsman,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Ishan Kishan,Wicket-Keeper,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Jasprit Bumrah,Bowler,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,False,Indian,0.0,,False
+Jason Behrendorff (T),Bowler,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,True,Overseas,0.0,,False
+Jofra Archer,All-Rounder,0.0,0.0,0,True,Mumbai Indians,Mumbai Indians,True,Unsold / Retained,True,Overseas,0.0,,False
+Will Jacks,Batsman,3.2,384.0,1500000,False,Royal Challengers Bangalore,,True,2 – 5 Cr,False,Indian,0.15,21.33,False
+Reece Topley,Bowler,1.9,228.0,7500000,False,Royal Challengers Bangalore,,True,1 – 2 Cr,False,Indian,0.75,2.53,False
+Rajan Kumar,Bowler,0.7,84.0,2000000,False,Royal Challengers Bangalore,,True,0.5 – 1 Cr,False,Indian,0.2,3.5,False
+Avinash Singh,Bowler,0.6,72.0,2000000,False,Royal Challengers Bangalore,,True,0.5 – 1 Cr,False,Indian,0.2,3.0,False
+Manoj Bhandage,All-Rounder,0.2,24.0,2000000,False,Royal Challengers Bangalore,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Sonu Yadav,All-Rounder,0.2,24.0,2000000,False,Royal Challengers Bangalore,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Himanshu Sharma,Bowler,0.2,24.0,2000000,False,Royal Challengers Bangalore,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Rajat Patidar,Batsman,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Mahipal Lomror,Bowler,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Shahbaz Ahamad,All-Rounder,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Mohammed Siraj,Bowler,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Wanindu Hasaranga,All-Rounder,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,True,Overseas,0.0,,False
+Karn Sharma,Bowler,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Virat Kohli,Batsman,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Suyash Prabhudessai,All-Rounder,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Siddharth Kaul,Bowler,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Finn Allen,Batsman,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+David Willey,All-Rounder,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Anuj Rawat,Wicket-Keeper,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Akash Deep,Bowler,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Dinesh Karthik,Wicket-Keeper,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Faf Du Plessis,Batsman,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Harshal Patel,All-Rounder,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,False,Indian,0.0,,False
+Glenn Maxwell,All-Rounder,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,True,Overseas,0.0,,False
+Josh Hazlewood,Bowler,0.0,0.0,0,True,Royal Challengers Bangalore,Royal Challengers Bangalore,True,Unsold / Retained,True,Overseas,0.0,,False
+Jason Holder,All-Rounder,5.75,690.0,20000000,False,Rajasthan Royals,Lucknow Super Giants,True,5 – 10 Cr,True,Overseas,2.0,2.88,True
+Adam Zampa,Bowler,1.5,180.0,1500000,False,Rajasthan Royals,,True,1 – 2 Cr,True,Overseas,0.15,10.0,False
+Joe Root,Batsman,1.0,120.0,10000000,False,Rajasthan Royals,,True,1 – 2 Cr,True,Overseas,1.0,1.0,False
+Donovan Ferreira,Wicket-Keeper,0.5,60.0,2000000,False,Rajasthan Royals,,True,0.5 – 1 Cr,False,Indian,0.2,2.5,False
+K.M. Asif,Bowler,0.3,36.0,3000000,False,Rajasthan Royals,Chennai Super Kings,True,< 0.5 Cr,False,Indian,0.3,1.0,True
+Kunal Rathore,Wicket-Keeper,0.2,24.0,2000000,False,Rajasthan Royals,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Abdul P A,All-Rounder,0.2,24.0,2000000,False,Rajasthan Royals,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Akash Vashisht,All-Rounder,0.2,24.0,2000000,False,Rajasthan Royals,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Murugan Ashwin,Bowler,0.2,24.0,2000000,False,Rajasthan Royals,Mumbai Indians,True,< 0.5 Cr,False,Indian,0.2,1.0,True
+Sanju Samson,Wicket-Keeper,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Riyan Parag,All-Rounder,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+R. Ashwin,All-Rounder,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Shimron Hetmyer,Batsman,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,True,Overseas,0.0,,False
+Trent Boult,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Prasidh Krishna,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Yuzvendra Chahal,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Yashasvi Jaiswal,Batsman,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+K.C Cariappa,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Dhruv Jurel,Wicket-Keeper,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Devdutt Padikkal,Batsman,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Jos Buttler,Wicket-Keeper,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,True,Overseas,0.0,,False
+Kuldeep Sen,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Navdeep Saini,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Kuldip Yadav,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Obed Mccoy,Bowler,0.0,0.0,0,True,Rajasthan Royals,Rajasthan Royals,True,Unsold / Retained,False,Indian,0.0,,False
+Harry Brook,Batsman,13.25,1590.0,15000000,False,Sunrisers Hyderabad,,True,10+ Cr,False,Indian,1.5,8.83,False
+Mayank Agarwal,Batsman,8.25,990.0,10000000,False,Sunrisers Hyderabad,Punjab Kings,True,5 – 10 Cr,False,Indian,1.0,8.25,True
+Heinrich Klaasen,Wicket-Keeper,5.25,630.0,10000000,False,Sunrisers Hyderabad,,True,5 – 10 Cr,True,Overseas,1.0,5.25,False
+Vivrant Sharma,All-Rounder,2.6,312.0,2000000,False,Sunrisers Hyderabad,,True,2 – 5 Cr,False,Indian,0.2,13.0,False
+Adil Rashid,Bowler,2.0,240.0,20000000,False,Sunrisers Hyderabad,,True,2 – 5 Cr,False,Indian,2.0,1.0,False
+Mayank Dagar,All-Rounder,1.8,216.0,2000000,False,Sunrisers Hyderabad,,True,1 – 2 Cr,False,Indian,0.2,9.0,False
+Akeal Hosein,Bowler,1.0,120.0,10000000,False,Sunrisers Hyderabad,,True,1 – 2 Cr,True,Overseas,1.0,1.0,False
+Mayank Markande,Bowler,0.5,60.0,5000000,False,Sunrisers Hyderabad,Mumbai Indians,True,0.5 – 1 Cr,False,Indian,0.5,1.0,True
+Upendra Singh Yadav,Wicket-Keeper,0.25,30.0,2000000,False,Sunrisers Hyderabad,,True,< 0.5 Cr,False,Indian,0.2,1.25,False
+Nitish Kumar Reddy,Wicket-Keeper,0.2,24.0,2000000,False,Sunrisers Hyderabad,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Samarth Vyas,All-Rounder,0.2,24.0,2000000,False,Sunrisers Hyderabad,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Anmolpreet Singh,Batsman,0.2,24.0,2000000,False,Sunrisers Hyderabad,Mumbai Indians,True,< 0.5 Cr,False,Indian,0.2,1.0,True
+Sanvir Singh,All-Rounder,0.2,24.0,2000000,False,Sunrisers Hyderabad,,True,< 0.5 Cr,False,Indian,0.2,1.0,False
+Marco Jansen,All-Rounder,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Rahul Tripathi,Batsman,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Umran Malik,Bowler,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Washington Sundar,All-Rounder,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Kartik Tyagi,Bowler,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+T. Natarajan,Bowler,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Fazalhaq Farooqi,Bowler,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Abdul Samad,Batsman,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Abhishek Sharma,All-Rounder,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Aiden Markram,Batsman,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,True,Overseas,0.0,,False
+Bhuvneshwar Kumar,Bowler,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Glenn Phillips,Wicket-Keeper,0.0,0.0,0,True,Sunrisers Hyderabad,Sunrisers Hyderabad,True,Unsold / Retained,False,Indian,0.0,,False
+Tom Banton,Wicket-Keeper,0.0,0.0,20000000,False,Unsold,,False,Unsold / Retained,False,Indian,2.0,,False
+Kusal Mendis,Wicket-Keeper,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Chris Jordan,Bowler,0.0,0.0,20000000,False,Unsold,Chennai Super Kings,False,Unsold / Retained,False,Indian,2.0,,False
+Adam Milne,Bowler,0.0,0.0,20000000,False,Unsold,Chennai Super Kings,False,Unsold / Retained,False,Indian,2.0,,False
+Mujeeb Rahman,Bowler,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Tabraiz Shamsi,Bowler,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Shubham Khajuria,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rohan Kunnummal,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Chethan L.R.,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Himmat Singh,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Corbin Bosch,All-Rounder,0.0,0.0,2000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,0.2,,False
+Priyam Garg,All-Rounder,0.0,0.0,2000000,False,Unsold,Sunrisers Hyderabad,False,Unsold / Retained,False,Indian,0.2,,False
+Saurabh Kumar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shashank Singh,All-Rounder,0.0,0.0,2000000,False,Unsold,Sunrisers Hyderabad,False,Unsold / Retained,False,Indian,0.2,,False
+Mohammed Azharuddeen,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Dinesh Bana,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Abhimanyu Easwaran,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sumit Kumar,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Lance Morris,Bowler,0.0,0.0,3000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.3,,False
+Mujtaba Yousuf,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Chintal Gandhi,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shreyas Gopal,Bowler,0.0,0.0,2000000,False,Unsold,Sunrisers Hyderabad,False,Unsold / Retained,False,Indian,0.2,,False
+S Midhun,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Izharulhuq Naveed,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Travis Head,Batsman,0.0,0.0,20000000,False,Unsold,,False,Unsold / Retained,True,Overseas,2.0,,False
+Dawid Malan,Batsman,0.0,0.0,1500000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.15,,False
+Sherfane Rutherford,Batsman,0.0,0.0,1500000,False,Unsold,Royal Challengers Bangalore,False,Unsold / Retained,False,Indian,0.15,,False
+Paul Stirling,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Rassie Van Der Dussen,Batsman,0.0,0.0,20000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,2.0,,False
+Daryl Mitchell,All-Rounder,0.0,0.0,10000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,1.0,,False
+Mohammad Nabi,All-Rounder,0.0,0.0,10000000,False,Unsold,Kolkata Knight Riders,False,Unsold / Retained,True,Overseas,1.0,,False
+Jimmy Neesham,All-Rounder,0.0,0.0,20000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,2.0,,False
+Wayne Parnell,All-Rounder,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,False,Indian,0.75,,False
+Dasun Shanaka,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Taskin Ahmed,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Dushmanta Chameera,Bowler,0.0,0.0,5000000,False,Unsold,Lucknow Super Giants,False,Unsold / Retained,False,Indian,0.5,,False
+Riley Meredith,Bowler,0.0,0.0,1500000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,0.15,,False
+Blessing Muzarabani,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Sandeep Sharma,Bowler,0.0,0.0,5000000,False,Unsold,Punjab Kings,False,Unsold / Retained,False,Indian,0.5,,False
+Johnson Charles,Wicket-Keeper,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Andre Fletcher,Wicket-Keeper,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Shai Hope,Wicket-Keeper,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Tom Latham,Wicket-Keeper,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Joshua Philippe,Wicket-Keeper,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.75,,False
+Lorcan Tucker,Wicket-Keeper,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Shahbaz Nadeem,Bowler,0.0,0.0,5000000,False,Unsold,Lucknow Super Giants,False,Unsold / Retained,False,Indian,0.5,,False
+Ish Sodhi,Bowler,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,False,Indian,0.75,,False
+Sachin Baby,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ashwin Hebbar,Batsman,0.0,0.0,2000000,False,Unsold,Delhi Capitals,False,Unsold / Retained,False,Indian,0.2,,False
+Pukhraj Mann,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Akshat Raghuwanshi,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Himanshu Rana,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shoun Roger,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Virat Singh,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Will Smeed,Batsman,0.0,0.0,4000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.4,,False
+Apoorv Wankhade,Batsman,0.0,0.0,3000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.3,,False
+Gerald Coetzee,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Evan Jones,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Abid Mushtaq,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Suryansh Shedge,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Jagadeesha Suchith,All-Rounder,0.0,0.0,2000000,False,Unsold,Sunrisers Hyderabad,False,Unsold / Retained,False,Indian,0.2,,False
+Ricky Bhui,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Baba Indrajith,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,Kolkata Knight Riders,False,Unsold / Retained,False,Indian,0.2,,False
+Sheldon Jackson,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,Kolkata Knight Riders,False,Unsold / Retained,False,Indian,0.2,,False
+Aryan Juyal,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,0.2,,False
+Kirant Shinde,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Luvnith Sisodia,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,Royal Challengers Bangalore,False,Unsold / Retained,False,Indian,0.2,,False
+Vishnu Solanki,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Aniket Choudhary,Bowler,0.0,0.0,3000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.3,,False
+Ravi Kumar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sushant Mishra,Bowler,0.0,0.0,2000000,False,Unsold,Sunrisers Hyderabad,False,Unsold / Retained,False,Indian,0.2,,False
+Arzan Nagwaswalla,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ishan Porel,Bowler,0.0,0.0,2000000,False,Unsold,Punjab Kings,False,Unsold / Retained,False,Indian,0.2,,False
+Akash Singh,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Basil Thampi,Bowler,0.0,0.0,2000000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,0.2,,False
+Paul Van Meekeren,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Vyshak Vijay Kumar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+S.Ajith Ram,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Satyajeet Bachhav,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Tejas Baroka,Bowler,0.0,0.0,2000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,0.2,,False
+Yuvraj Chudasama,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Peter Hatzoglou,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Karthik Meiyappan,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shivam Sharma,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Reeza Hendricks,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Christiaan Jonker,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Brandon King,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Chris Lynn,Batsman,0.0,0.0,20000000,False,Unsold,,False,Unsold / Retained,False,Indian,2.0,,False
+Karun Nair,Batsman,0.0,0.0,5000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,0.5,,False
+Pathum Nissaanka,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Jason Roy,Batsman,0.0,0.0,1500000,False,Unsold,Gujarat Titans,False,Unsold / Retained,True,Overseas,0.15,,False
+Gurkeerat Singh,Batsman,0.0,0.0,5000000,False,Unsold,Gujarat Titans,False,Unsold / Retained,False,Indian,0.5,,False
+Harry Tector,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Najibullah Zadran,Batsman,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Sean Abbott,All-Rounder,0.0,0.0,1500000,False,Unsold,Sunrisers Hyderabad,False,Unsold / Retained,False,Indian,0.15,,False
+Qais Ahmad,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Charith Asalanka,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Michael Bracewell,All-Rounder,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Dominic Drakes,All-Rounder,0.0,0.0,5000000,False,Unsold,Gujarat Titans,False,Unsold / Retained,True,Overseas,0.5,,False
+George Garton,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Chamika Karunaratne,All-Rounder,0.0,0.0,5000000,False,Unsold,Kolkata Knight Riders,False,Unsold / Retained,True,Overseas,0.5,,False
+Jamie Overton,All-Rounder,0.0,0.0,20000000,False,Unsold,,False,Unsold / Retained,False,Indian,2.0,,False
+Sandeep Warrier,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Ben Dwarshuis,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Richard Gleeson,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Lahiru Kumara,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Dilshan Madushanka,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Billy Stanlake,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Andrew Tye,Bowler,0.0,0.0,10000000,False,Unsold,Lucknow Super Giants,False,Unsold / Retained,True,Overseas,1.0,,False
+Luke Wood,Bowler,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Priyansh Arya,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Matthew Breetzke,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shivam Chauhan,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rahul Gahlaut,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sudip Gharami,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+C. Hari Nishaanth,Batsman,0.0,0.0,2000000,False,Unsold,Chennai Super Kings,False,Unsold / Retained,False,Indian,0.2,,False
+Amandeep Khare,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Bhanu Pania,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ekant Sen,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Akash Singh,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Himanshu Bisht,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mickil Jaiswal,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+G.Aniketh Reddy,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Atit Sheth,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+M. Siddharth,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Tanay Thyagarajann,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sumeet Verma,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sanjay Yadav,All-Rounder,0.0,0.0,2000000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,0.2,,False
+Ajitesh Guruswamy,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Yash Kothari,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Suresh Kumar,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Kumar Kushagra,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Anmol Malhotra,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Robin Minz,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Agniv Pan,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Priyesh Patel,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mitesh Patel,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Abishek Porel,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Bharat Sharma,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Vivek Singh,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Abhijeet Tomar,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,Kolkata Knight Riders,False,Unsold / Retained,False,Indian,0.2,,False
+Basit Bashir,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Nandre Burger,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.2,,False
+Rasikh Dar,Bowler,0.0,0.0,2000000,False,Unsold,Kolkata Knight Riders,False,Unsold / Retained,False,Indian,0.2,,False
+Sakib Hussain,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Waseem Khanday,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ravi Kiran Majeti,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Lukman Hussain Meriwala,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Anuj Raj,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ankit Singh Rajpoot,Bowler,0.0,0.0,2000000,False,Unsold,Lucknow Super Giants,False,Unsold / Retained,False,Indian,0.2,,False
+Prince Yadav,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Prithviraj Yarra,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mushtaq Beg,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rocky Bhasker,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sanjith Devaraj,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Allah Mohammad,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.2,,False
+Lalit Mohan,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Bhuwan Rohilla,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Aman Sharma,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Manav Suthar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Tom Curran,All-Rounder,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.75,,False
+Moises Henriques,All-Rounder,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Afif Hossain,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Scott Kuggeleijn,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Sisanda Magala,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Craig Overton,All-Rounder,0.0,0.0,20000000,False,Unsold,,False,Unsold / Retained,False,Indian,2.0,,False
+Darcy Short,All-Rounder,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,False,Indian,0.75,,False
+Dhananjaya Silva,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Dunith Wellalage,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Varun Aaron,Bowler,0.0,0.0,5000000,False,Unsold,Gujarat Titans,False,Unsold / Retained,False,Indian,0.5,,False
+Sheldon Cottrel,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Nathan Coulter-Nile,Bowler,0.0,0.0,1500000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,True,Overseas,0.15,,False
+Daryn Dupavillon,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Matt Henry,Bowler,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Dhawal Kulkarni,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Tymal Mills,Bowler,0.0,0.0,20000000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,2.0,,False
+David Payne,Bowler,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,False,Indian,0.75,,False
+Barinder Sran,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Glenton Stuurman,Bowler,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Anirudh Balachander,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Gourav Choudhary,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Saurav Chuahan,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Kumar Deobrat,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Chirag Gandhi,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Arman Jaffer,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Madhav Kaushik,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Priyank Panchal,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ayush Pandey,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rohan Patil,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sanjay Ramaswamy,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Siddharth Yadav,Batsman,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rehan Ahmed,All-Rounder,0.0,0.0,4000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.4,,False
+Prayas Barman,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rahul Buddhi,All-Rounder,0.0,0.0,2000000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,0.2,,False
+Vaisakh Chandran,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Writtick Chatterjee,All-Rounder,0.0,0.0,2000000,False,Unsold,Punjab Kings,False,Unsold / Retained,False,Indian,0.2,,False
+Prashant Chopra,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Harsh Dubey,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Tanush Kotian,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ninad Rathva,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+B. Surya,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Jordan Thompson,All-Rounder,0.0,0.0,4000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.4,,False
+Shivank Vashisth,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ankush Bains,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Christopher Benjamin,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Connor Esterhuizen,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mohd Arslan Khan,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mamidi Krishna,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Fazil Makaya,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Akshdeep Nath,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Deepak Punia,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ateev Saini,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Bipin Saurabh,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+B.R. Sharath,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Yashovardhan Singh,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Lakshay Thareja,Wicket-Keeper,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mohit Avasthi,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ottneil Baartman,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Gurnoor Singh Brar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shahrukh Dar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Thomas Helm,Bowler,0.0,0.0,4000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.4,,False
+Pankaj Jaswal,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Venkatesh Muralidhara,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Geet Puri,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+E. Sanketh,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ajay Sarkar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ashok Sharma,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Kanwar Singh,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Fabian Allen,All-Rounder,0.0,0.0,5000000,False,Unsold,Mumbai Indians,False,Unsold / Retained,False,Indian,0.5,,False
+Carlos Brathwaite,All-Rounder,0.0,0.0,7500000,False,Unsold,,False,Unsold / Retained,False,Indian,0.75,,False
+Roston Chase,All-Rounder,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Rahkeem Cornwall,All-Rounder,0.0,0.0,10000000,False,Unsold,,False,Unsold / Retained,False,Indian,1.0,,False
+Karim Janat,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Keshav Maharaj,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Pawan Negi,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.5,,False
+Keemo Paul,All-Rounder,0.0,0.0,5000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.5,,False
+Shivam Chaudhary,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ashwin Das,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+James Fuller,All-Rounder,0.0,0.0,4000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.4,,False
+Chirag Jani,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Akshay Karnewar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Bhagmender Lather,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Lone Muzaffar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Pulkit Narang,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rohit Rayudu,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sameer Rizvi,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Tunish Sawkar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Auqib Dar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mukhtar Hussain,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ashwani Kumar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Hemant Kumar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Nathan McAndrew,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.2,,False
+Rajesh Mohanty,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ravi Sharma,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Vikash Singh,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ruben Trumpelmann,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Koushik Vasuki,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Vasu Vats,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shubham Agrawal,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Baba Aparajith,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Anshul Kamboj,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Azim Kazi,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Dev Lakra,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Jitender Pal,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ritwik Roy Chowdhury,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.2,,False
+Utkarsh Singh,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shubham Singh,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Avneesh Sudha,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Asad Jamil Ahmed,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Bandaru Ayyappa,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Aashish Bhatt,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+McKenny Clarke,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shubham Kapse,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Gourav Koul,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Raunak Kumar,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Trilok Nag,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Atal Bihari Rai,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ramon Simmonds,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rajeev Singh,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Mohd. Wasim,Bowler,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Atharva Ankolekar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Khizar Dafedar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Naman Dhir,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sahil Dhiwan,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sampark Gupta,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Jordan Hermann,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Hayden Kerr,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Salman Khan,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sairaj Patil,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Divyaansh Saxena,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Purnank Tyagi,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Prince Yadav,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Deepraj Gaonkar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shubham Garhwal,All-Rounder,0.0,0.0,2000000,False,Unsold,Rajasthan Royals,False,Unsold / Retained,False,Indian,0.2,,False
+Benny Howell,All-Rounder,0.0,0.0,4000000,False,Unsold,Punjab Kings,False,Unsold / Retained,False,Indian,0.4,,False
+Deepesh Nailwal,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Arjun Rapria,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shashwat Rawat,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sumit Ruikar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shivam Sharma,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rajandeep Singh,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Anunay Singh,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Digvesh Singh,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Pranshu Vijayran,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Prerit Dutta,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ramakrishna Ghosh,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shubhang Hegde,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shamshuzama Kazi,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Ayaz Khan,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Amit Pachhara,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Akul Pandove,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Garv Sangwan,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Shubham Sharma,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Amit Yadav,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Amit Ali,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rishabh Chauhan,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Matthew Forde,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sammar Gajjar,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Rajneesh Gurbani,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Divyansh Joshi,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,True,Overseas,0.2,,False
+Dhruv Patel,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Jack Prestwidge,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Aditya Sarvate,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Sagar Solanki,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False
+Prenelan Subrayen,All-Rounder,0.0,0.0,2000000,False,Unsold,,False,Unsold / Retained,False,Indian,0.2,,False

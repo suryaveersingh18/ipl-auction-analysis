@@ -1,0 +1,123 @@
+2026-04-29 10:10:03,047 | INFO | __main__ | === Starting Data Cleaning Pipeline ===
+2026-04-29 10:10:03,047 | INFO | __main__ | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-04-29 10:10:03,052 | INFO | __main__ | Loaded 568 rows, 8 columns
+2026-04-29 10:10:03,054 | INFO | __main__ | Columns renamed
+2026-04-29 10:10:03,056 | INFO | __main__ | Base price parsed
+2026-04-29 10:10:03,058 | INFO | __main__ | Teams normalised
+2026-04-29 10:10:03,058 | INFO | __main__ | Cost nulls handled
+2026-04-29 10:10:03,066 | INFO | __main__ | Feature engineering complete
+2026-04-29 10:10:03,074 | INFO | __main__ | Cleaned dataset saved to data/cleaned_ipl_auction_2023.csv
+2026-04-29 10:10:03,074 | INFO | __main__ | === Pipeline Complete: 568 rows, 15 columns ===
+2026-04-29 10:11:26,526 | INFO | src.cleaning.pipeline | === Starting Data Cleaning Pipeline ===
+2026-04-29 10:11:26,526 | INFO | src.cleaning.pipeline | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-04-29 10:11:26,530 | INFO | src.cleaning.pipeline | Loaded 568 rows, 8 columns
+2026-04-29 10:11:26,531 | INFO | src.cleaning.pipeline | Columns renamed
+2026-04-29 10:11:26,533 | INFO | src.cleaning.pipeline | Base price parsed
+2026-04-29 10:11:26,535 | INFO | src.cleaning.pipeline | Teams normalised
+2026-04-29 10:11:26,535 | INFO | src.cleaning.pipeline | Cost nulls handled
+2026-04-29 10:11:26,543 | INFO | src.cleaning.pipeline | Feature engineering complete
+2026-04-29 10:11:26,545 | INFO | src.cleaning.pipeline | === Pipeline Complete: 568 rows, 15 columns ===
+2026-04-29 10:11:26,546 | INFO | __main__ | Generating all EDA charts …
+2026-04-29 10:11:26,661 | INFO | __main__ | Saved chart: assets/sold_vs_unsold.png
+2026-04-29 10:11:27,059 | INFO | __main__ | Saved chart: assets/team_spending.png
+2026-04-29 10:11:27,320 | INFO | __main__ | Saved chart: assets/role_spending.png
+2026-04-29 10:11:27,949 | INFO | __main__ | Saved chart: assets/top_expensive_players.png
+2026-04-29 10:11:28,248 | INFO | __main__ | Saved chart: assets/price_distribution.png
+2026-04-29 10:11:28,672 | INFO | __main__ | Saved chart: assets/origin_comparison.png
+2026-04-29 10:11:28,923 | INFO | __main__ | Saved chart: assets/price_buckets.png
+2026-04-29 10:11:29,552 | INFO | __main__ | Saved chart: assets/team_role_heatmap.png
+2026-04-29 10:11:29,975 | INFO | __main__ | Saved chart: assets/bargain_buys.png
+2026-04-29 10:11:30,237 | INFO | __main__ | Saved chart: assets/boxplot_role.png
+2026-04-29 10:11:30,726 | INFO | __main__ | Saved chart: assets/team_composition.png
+2026-04-29 10:11:31,150 | INFO | __main__ | Saved chart: assets/base_vs_final.png
+2026-04-29 10:11:31,151 | INFO | __main__ | Generated 12 charts
+2026-04-29 10:12:21,162 | INFO | src.cleaning.pipeline | === Starting Data Cleaning Pipeline ===
+2026-04-29 10:12:21,162 | INFO | src.cleaning.pipeline | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-04-29 10:12:21,166 | INFO | src.cleaning.pipeline | Loaded 568 rows, 8 columns
+2026-04-29 10:12:21,167 | INFO | src.cleaning.pipeline | Columns renamed
+2026-04-29 10:12:21,169 | INFO | src.cleaning.pipeline | Base price parsed
+2026-04-29 10:12:21,171 | INFO | src.cleaning.pipeline | Teams normalised
+2026-04-29 10:12:21,171 | INFO | src.cleaning.pipeline | Cost nulls handled
+2026-04-29 10:12:21,179 | INFO | src.cleaning.pipeline | Feature engineering complete
+2026-04-29 10:12:21,182 | INFO | src.cleaning.pipeline | === Pipeline Complete: 568 rows, 15 columns ===
+2026-04-29 10:12:21,182 | INFO | __main__ | Training price regression model …
+2026-04-29 10:12:24,016 | INFO | __main__ | Price Model — MAE: 2.209, R²: 0.314, CV-R²: -0.432
+2026-04-29 10:12:24,677 | INFO | __main__ | Training sold/unsold classifier …
+2026-04-29 10:12:25,693 | INFO | __main__ | Classifier — Accuracy: 0.802, CV-Accuracy: 0.783
+2026-04-29 10:12:25,699 | INFO | __main__ | 
+              precision    recall  f1-score   support
+
+      Unsold       0.81      0.98      0.89        65
+        Sold       0.50      0.06      0.11        16
+
+    accuracy                           0.80        81
+   macro avg       0.66      0.52      0.50        81
+weighted avg       0.75      0.80      0.74        81
+
+2026-04-29 10:12:57,353 | INFO | src.cleaning.pipeline | === Starting Data Cleaning Pipeline ===
+2026-04-29 10:12:57,353 | INFO | src.cleaning.pipeline | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-04-29 10:12:57,357 | INFO | src.cleaning.pipeline | Loaded 568 rows, 8 columns
+2026-04-29 10:12:57,359 | INFO | src.cleaning.pipeline | Columns renamed
+2026-04-29 10:12:57,360 | INFO | src.cleaning.pipeline | Base price parsed
+2026-04-29 10:12:57,362 | INFO | src.cleaning.pipeline | Teams normalised
+2026-04-29 10:12:57,363 | INFO | src.cleaning.pipeline | Cost nulls handled
+2026-04-29 10:12:57,371 | INFO | src.cleaning.pipeline | Feature engineering complete
+2026-04-29 10:12:57,373 | INFO | src.cleaning.pipeline | === Pipeline Complete: 568 rows, 15 columns ===
+2026-04-29 10:12:57,390 | INFO | __main__ | Loaded 568 rows into SQLite table 'ipl_auction' at data/ipl_auction.db
+2026-04-29 10:12:57,395 | INFO | __main__ | Database setup complete
+2026-04-29 10:12:57,398 | INFO | __main__ | Report 'team_total_spend': 10 rows returned
+2026-04-29 10:12:57,403 | INFO | __main__ | Report 'top_10_expensive': 10 rows returned
+2026-04-29 10:12:57,420 | INFO | __main__ | Report 'role_stats': 4 rows returned
+2026-04-29 10:15:38,853 | INFO | src.cleaning.pipeline | === Starting Data Cleaning Pipeline ===
+2026-04-29 10:15:38,854 | INFO | src.cleaning.pipeline | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-04-29 10:15:38,858 | INFO | src.cleaning.pipeline | Loaded 568 rows, 8 columns
+2026-04-29 10:15:38,860 | INFO | src.cleaning.pipeline | Columns renamed
+2026-04-29 10:15:38,862 | INFO | src.cleaning.pipeline | Base price parsed
+2026-04-29 10:15:38,864 | INFO | src.cleaning.pipeline | Teams normalised
+2026-04-29 10:15:38,865 | INFO | src.cleaning.pipeline | Cost nulls handled
+2026-04-29 10:15:38,873 | INFO | src.cleaning.pipeline | Feature engineering complete
+2026-04-29 10:15:38,875 | INFO | src.cleaning.pipeline | === Pipeline Complete: 568 rows, 15 columns ===
+2026-04-29 10:15:41,730 | INFO | src.sql.database | Loaded 568 rows into SQLite table 'ipl_auction' at data/ipl_auction.db
+2026-04-29 10:15:41,732 | INFO | src.sql.database | Database setup complete
+2026-04-29 10:15:41,734 | INFO | src.sql.database | Report 'top_10_expensive': 10 rows returned
+2026-04-29 15:51:31,099 | INFO | src.cleaning.pipeline | === Starting Data Cleaning Pipeline ===
+2026-04-29 15:51:31,099 | INFO | src.cleaning.pipeline | Loading raw dataset from data/raw_ipl_auction_2023.csv
+2026-04-29 15:51:31,101 | INFO | src.cleaning.pipeline | Loaded 568 rows, 8 columns
+2026-04-29 15:51:31,101 | INFO | src.cleaning.pipeline | Columns renamed
+2026-04-29 15:51:31,102 | INFO | src.cleaning.pipeline | Base price parsed
+2026-04-29 15:51:31,103 | INFO | src.cleaning.pipeline | Teams normalised
+2026-04-29 15:51:31,103 | INFO | src.cleaning.pipeline | Cost nulls handled
+2026-04-29 15:51:31,108 | INFO | src.cleaning.pipeline | Feature engineering complete
+2026-04-29 15:51:31,111 | INFO | src.cleaning.pipeline | Cleaned dataset saved to data/cleaned_ipl_auction_2023.csv
+2026-04-29 15:51:31,111 | INFO | src.cleaning.pipeline | === Pipeline Complete: 568 rows, 15 columns ===
+2026-04-29 15:51:31,115 | INFO | src.sql.database | Loaded 568 rows into SQLite table 'ipl_auction' at data/ipl_auction.db
+2026-04-29 15:51:31,116 | INFO | src.sql.database | Database setup complete
+2026-04-29 15:51:31,116 | INFO | src.eda.analysis | Generating all EDA charts …
+2026-04-29 15:51:31,214 | INFO | src.eda.analysis | Saved chart: assets/sold_vs_unsold.png
+2026-04-29 15:51:31,314 | INFO | src.eda.analysis | Saved chart: assets/team_spending.png
+2026-04-29 15:51:31,374 | INFO | src.eda.analysis | Saved chart: assets/role_spending.png
+2026-04-29 15:51:31,519 | INFO | src.eda.analysis | Saved chart: assets/top_expensive_players.png
+2026-04-29 15:51:31,597 | INFO | src.eda.analysis | Saved chart: assets/price_distribution.png
+2026-04-29 15:51:31,735 | INFO | src.eda.analysis | Saved chart: assets/origin_comparison.png
+2026-04-29 15:51:31,800 | INFO | src.eda.analysis | Saved chart: assets/price_buckets.png
+2026-04-29 15:51:31,959 | INFO | src.eda.analysis | Saved chart: assets/team_role_heatmap.png
+2026-04-29 15:51:32,088 | INFO | src.eda.analysis | Saved chart: assets/bargain_buys.png
+2026-04-29 15:51:32,150 | INFO | src.eda.analysis | Saved chart: assets/boxplot_role.png
+2026-04-29 15:51:32,260 | INFO | src.eda.analysis | Saved chart: assets/team_composition.png
+2026-04-29 15:51:32,368 | INFO | src.eda.analysis | Saved chart: assets/base_vs_final.png
+2026-04-29 15:51:32,368 | INFO | src.eda.analysis | Generated 12 charts
+2026-04-29 15:51:32,368 | INFO | src.ml.models | Training price regression model …
+2026-04-29 15:51:32,998 | INFO | src.ml.models | Price Model — MAE: 2.204, R²: 0.318, CV-R²: -0.432
+2026-04-29 15:51:33,129 | INFO | src.ml.models | Training sold/unsold classifier …
+2026-04-29 15:51:33,449 | INFO | src.ml.models | Classifier — Accuracy: 0.802, CV-Accuracy: 0.783
+2026-04-29 15:51:33,452 | INFO | src.ml.models | 
+              precision    recall  f1-score   support
+
+      Unsold       0.81      0.98      0.89        65
+        Sold       0.50      0.06      0.11        16
+
+    accuracy                           0.80        81
+   macro avg       0.66      0.52      0.50        81
+weighted avg       0.75      0.80      0.74        81
+
+2026-04-29 15:52:00,029 | INFO | src.sql.database | Report 'team_total_spend': 10 rows returned
